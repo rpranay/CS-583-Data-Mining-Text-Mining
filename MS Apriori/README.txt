@@ -1,8 +1,7 @@
-******************************************
+
 Developer Team:
   Bhargav Arisetty      (marise2@uic.edu)
   Pranay Kumar Rasulury (prasul2@uic.edu)
-******************************************
 
 => This project is implemented in Ruby
 
